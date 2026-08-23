@@ -170,14 +170,6 @@ Summarize the market in one paragraph.
 
 ## Installation
 
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/crypto-trader-intelligence.git
-
-cd crypto-trader-intelligence
-```
-
 ### Install Dependencies
 
 ```bash
